@@ -1,14 +1,14 @@
 ### Hi there 👋
- 🔭 I’m currently working on on a minecraft poroject 
-i am java programmer and i have so far made 3 projects and i am currently working on a minecraft mod. I have also created a discord moderation bot and a website for my father.
-I am minecarft mod creater on cursforge: https://www.curseforge.com/members/realyusufismail/projects
+ 🔭 I’m currently working on on a minecraft project.
+I am a Java programmer and I have so far made 3 projects and I am currently working on a Minecraft mod. I have also created a discord moderation bot and a website for my respected and dear father.
+I am Minecarft mod creater on cursforge: https://www.curseforge.com/members/realyusufismail/projects
 You can find my minecraft mod here: https://www.curseforge.com/minecraft/mc-mods/ben-mob-mod
-Also working on another mod here: https://www.curseforge.com/minecraft/mc-mods/creatuures
-you can also contact here https://realyusufismail.github.io/contact.html.
+I'm also working on another mod here: https://www.curseforge.com/minecraft/mc-mods/creatuures
+You can also contact me here https://realyusufismail.github.io/contact.html.
 
 
 
-you can donate to me here https://gofund.me/abdcb233
+You can donate to me here https://gofund.me/abdcb233
 
 
 
