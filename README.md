@@ -1,7 +1,7 @@
 ### Hi there 👋
  🔭 I’m currently working on a Minecraft project.
 I am a Java programmer and I have so far made 3 projects and I am currently working on a Minecraft mod. I have also created a discord moderation bot and a website for my respected and dear father.
-I am Minecarft mod creater on cursforge: https://www.curseforge.com/members/realyusufismail/projects
+I am a Minecarft mod creater on cursforge: https://www.curseforge.com/members/realyusufismail/projects
 You can find my minecraft mod here: https://www.curseforge.com/minecraft/mc-mods/ben-mob-mod
 I'm also working on another mod here: https://www.curseforge.com/minecraft/mc-mods/creatuures
 You can also contact me here https://realyusufismail.github.io/contact.html.
