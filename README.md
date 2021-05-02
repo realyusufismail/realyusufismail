@@ -1,15 +1,18 @@
 ### Hi there 👋
  🔭 I’m currently working on a Minecraft project.
- My cerifictes for compleated cources https://github.com/realyusufismail/Certfictes
+ My certificates for completed courses https://github.com/realyusufismail/Certificates
  
 I am a Java programmer and I have so far made 3 projects and I am currently working on a Minecraft mod. I have also created a discord moderation bot and a website for my respected and dear father.
-I am a Minecraft mod creater on cursforge: https://www.curseforge.com/members/realyusufismail/projects
+I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/realyusufismail/projects
 You can find my Minecraft mod here: https://www.curseforge.com/minecraft/mc-mods/ben-mob-mod
 You can also contact me here https://realyusufismail.github.io/contact.html.
 
 
 
 You can donate to me here https://gofund.me/abdcb233
+
+
+
 
 
 
