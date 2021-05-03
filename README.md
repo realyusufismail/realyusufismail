@@ -9,7 +9,7 @@ You can also contact me here https://realyusufismail.github.io/contact.html.
 
 
 
-You can donate to me here https://gofund.me/abdcb233
+You can donate to me here https://gofund.me/abdcb233 or here https://opencollective.com/yusufi
 
 
 
