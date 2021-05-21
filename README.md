@@ -15,7 +15,8 @@ My Discord: [![Discord](https://img.shields.io/discord/699595852473434133?label=
  ### Connect with me:
 
 [<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord] 
-
+</br>
+</br>
 You also can also contact me here https://realyusufismail.github.io/contact.html.
 
 <br/>
