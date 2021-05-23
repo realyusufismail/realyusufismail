@@ -2,10 +2,9 @@
 My Discord: [![Discord](https://img.shields.io/discord/699595852473434133?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](  https://discord.gg/QCYJmGdKTJ)
 
 ### I'm a programmer.
- 🔭 I’m currently working on a Minecraft project.
+ 🔭 I’m currently working on a 2 Minecraft project which you can find here [My mod][mod1] and [another mod][mod2]
  
  I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
- You can find my Minecraft mod here: https://www.curseforge.com/minecraft/mc-mods/ben-mob-mod
  
  My certificates for completed courses https://github.com/realyusufismail/Certificates
  
@@ -51,7 +50,9 @@ I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/re
 </div>
 
 
-[youtube]: https://youtube.com/TurtyWurty
+[youtube]: https://www.youtube.com/channel/UC1RUkzjpWtp4w3OoMKh7pGg
+[mod1]: https://www.curseforge.com/minecraft/mc-mods/ben-ten-mob-mod
+[mod2]: https://www.curseforge.com/minecraft/mc-mods/creatuures
 [discord]:  https://discord.gg/QCYJmGdKTJ
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
