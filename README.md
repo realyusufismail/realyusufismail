@@ -3,6 +3,8 @@ My Discord: [![Discord](https://img.shields.io/discord/699595852473434133?label=
 
 ### I'm a programmer.
  🔭 I’m currently working on a 2 Minecraft project which you can find here [My mod][mod1] and [another mod][mod2]
+
+  Learning Java 8 then Java 16.
  
  I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
  
