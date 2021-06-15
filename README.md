@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yusuf</h1>
 
 ### I'm a programmer.
  🔭 I’m currently working on a 2 Minecraft project which you can find here [My mod][mod1] and [another mod][mod2]
