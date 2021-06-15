@@ -6,7 +6,7 @@
  
  My certificates for completed courses https://github.com/realyusufismail/Certificates
  
- You can donate to me here 
+ You can donate to me here:
  
  [<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
  [<img align="left" alt="Patreon" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/patreon-3775483-3150281.png"/>][patreon]
