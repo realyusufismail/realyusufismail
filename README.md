@@ -1,5 +1,4 @@
 ### Hi there 👋
-My Discord: [![Discord](https://img.shields.io/discord/699595852473434133?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](  https://discord.gg/QCYJmGdKTJ)
 
 ### I'm a programmer.
  🔭 I’m currently working on a 2 Minecraft project which you can find here [My mod][mod1] and [another mod][mod2]
@@ -10,12 +9,11 @@ My Discord: [![Discord](https://img.shields.io/discord/699595852473434133?label=
  
  My certificates for completed courses https://github.com/realyusufismail/Certificates
  
- You can donate to me here https://gofund.me/abdcb233 or here https://opencollective.com/yusufi and or here https://patreon.com/YusufIsmail?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare 
+ You can donate to me here https://gofund.me/abdcb233 or here https://opencollective.com/yusufi and or here https://patreon.com/YusufIsmail
 
  
  ### Connect with me:
 
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>][discord] 
 </br>
 </br>
 You also can also contact me here https://realyusufismail.github.io/contact.html.
@@ -31,6 +29,7 @@ You also can also contact me here https://realyusufismail.github.io/contact.html
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg"/>][intellij]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
+[<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][atom]
 
 
  <br/>
@@ -63,4 +62,6 @@ I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/re
 [javascript]: https://www.javascript.com
 [nodejs]: https://nodejs.org
 [intellij]: https://www.jetbrains.com/idea/
+[atom]: https://atom.io/
+
 
