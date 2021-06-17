@@ -17,10 +17,13 @@
 <br/>
  
  ### Connect with me:
-
-You can contact me here https://realyusufismail.github.io/contact.html.
+[<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
 
 <br/>
+<br/>
+You can contact me here https://realyusufismail.github.io/contact.html.
+
+
 
  ### Languages and tools that i use:
  
@@ -56,7 +59,7 @@ I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/re
 [youtube]: https://www.youtube.com/channel/UC1RUkzjpWtp4w3OoMKh7pGg
 [mod1]: https://www.curseforge.com/minecraft/mc-mods/ben-ten-mob-mod
 [mod2]: https://www.curseforge.com/minecraft/mc-mods/creatuures
-[discord]:  https://discord.gg/QCYJmGdKTJ
+[discord]: https://discord.gg/k6zQ7tHR
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
 [html]: https://en.wikipedia.org/wiki/HTML
