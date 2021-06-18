@@ -59,7 +59,7 @@ I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/re
 [youtube]: https://www.youtube.com/channel/UC1RUkzjpWtp4w3OoMKh7pGg
 [mod1]: https://www.curseforge.com/minecraft/mc-mods/ben-ten-mob-mod
 [mod2]: https://www.curseforge.com/minecraft/mc-mods/creatuures
-[discord]: https://discord.gg/k6zQ7tHR
+[discord]: https://discord.gg/kbVDCfvVKe
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
 [html]: https://en.wikipedia.org/wiki/HTML
