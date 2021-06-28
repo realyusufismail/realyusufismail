@@ -34,7 +34,7 @@ You can contact me here https://realyusufismail.github.io/contact.html.
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
-[<img align="left" alt="Atom" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/atom-logo.png"/>][atom]
+[<img align="left" alt="Github Desktop App" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png"/>][github_app]
 
 
  <br/>
@@ -71,6 +71,7 @@ I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/re
 [gofundme]: https://www.gofundme.com/manage/bvbqp-help-me-get-a-better-computer
 [patreon]: https://www.patreon.com/YusufIsmail
 [opencollective]: https://opencollective.com/yusufi 
+[github_app]: https://desktop.github.com
 
 
 
