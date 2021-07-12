@@ -19,6 +19,7 @@
  
  ### Connect with me:
 [<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
+My discord username is RealYusufArfanIsmail#0001
 
 <br/>
 <br/>
