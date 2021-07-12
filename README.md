@@ -19,12 +19,11 @@
  
  ### Connect with me:
 [<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
+<br>
+
 My discord username is RealYusufArfanIsmail#0001
 
-<br/>
-<br/>
 You can contact me here https://realyusufismail.github.io/contact.html.
-
 
 
  ### Languages and tools that i use:
