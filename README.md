@@ -23,9 +23,6 @@
 
 My discord username is RealYusufArfanIsmail#0001
 
-You can contact me here https://realyusufismail.github.io/contact.html.
-
-
  ### Languages and tools that i use:
  
  [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
