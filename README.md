@@ -21,7 +21,7 @@
 [<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
 <br>
 
-My discord username is RealYusufArfanIsmail#0001
+My discord username is Yusuf.Il#0001
 
  ### Languages and tools that i use:
  
