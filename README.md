@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" /> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on a 2 Minecraft project which you can find here [My mod][mod1] and [another mod][mod2]
-  I do Minecraft Modding Tutorials on [my YouTube Channel][youtube]
+ 🔭 I’m currently working on my discord bot. Which can be found here: https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot
  
  My certificates for completed courses https://github.com/realyusufismail/Certificates
  
