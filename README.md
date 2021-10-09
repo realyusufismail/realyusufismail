@@ -39,7 +39,8 @@ My discord username is Yusuf.I#0001
  
 
 ### About me
-I am a Java programmer and I have so far made 3 projects and I am currently working on a Minecraft mod. I have also created a discord moderation bot and a website for my respected and dear father.
+I am a Java programmer and I have so far made 5 projects and I am currently working on a Discord bot. I have also created a 3 Minecraft Mods bot and a website for my respected and dear father.
+
 I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/realyusufismail/projects
 
  <br/>
