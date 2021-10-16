@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" /> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on my discord bot. Which can be found here: https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot
+ 🔭 I’m currently working on [Yusuf's Moderation bot](https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot) and I am also contributing to [TJ-Bot](https://github.com/Together-Java/TJ-Bot/)
  
- My certificates for completed courses https://github.com/realyusufismail/Certificates
+ My certificates for completed [courses](https://github.com/realyusufismail/Certificates)
  
  You can donate to me here:
  
@@ -41,10 +41,9 @@ My discord username is Yusuf.I#0001
 ### About me
 I am a Java programmer and I have so far made 5 projects and I am currently working on a Discord bot. I have also created a 3 Minecraft Mods bot and a website for my respected and dear father.
 
-I am a Minecraft mod creator on Cursforge: https://www.curseforge.com/members/realyusufismail/projects
+I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 
  <br/>
-<br/>
 
 ### My stats
 
