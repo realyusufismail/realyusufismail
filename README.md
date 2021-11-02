@@ -52,6 +52,7 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&count_private=true      &theme=dark&layout=compact&langs_count=6" />
 </div>
 
+[![Spotify](https://novatorem-44et1xs1t.vercel.app/api/spotify)](https://open.spotify.com/user/yusufgamer)
 
 [youtube]: https://www.youtube.com/channel/UC1RUkzjpWtp4w3OoMKh7pGg
 [mod1]: https://www.curseforge.com/minecraft/mc-mods/ben-ten-mob-mod
