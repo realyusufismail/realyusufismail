@@ -9,9 +9,7 @@
  You can donate to me here:
  
  [<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
- 
   <br/>
-<br/>
  
  ### Connect with me:
 [<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
