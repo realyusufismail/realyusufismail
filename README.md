@@ -63,7 +63,7 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 [patreon]: https://www.patreon.com/YusufIsmail
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
-[linkdin]: https://www.linkedin.com/in/yusuf-arfan-ismail-44728a214/
+[linkdin]: https://www.linkedin.com/in/yusufarfanismail/
 
 
 
