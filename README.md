@@ -9,15 +9,13 @@
  You can donate to me here:
  
  [<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
- [<img align="left" alt="Patreon" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/patreon-3775483-3150281.png"/>][patreon]
- [<img align="left" alt="Opencollective" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/opencollective-2752112-2284929.png"/>][opencollective]
-
  
   <br/>
 <br/>
  
  ### Connect with me:
 [<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
+[<img align="left" alt="Linkdin" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>][linkdin]
 <br>
 
 My discord username is Yusuf.I#0001
@@ -38,7 +36,7 @@ My discord username is Yusuf.I#0001
  
 
 ### About me
-I am a Java programmer and I have so far made 5 projects and I am currently working on a Discord bot. I have also created a 3 Minecraft Mods bot and a website for my respected and dear father.
+I am a Java programmer and I have been programming 2 years. Currently I am working on my personal open source project and on another open source project. In the past I have made 3 Minecraft mods including one which has hit 10 thousand downloads! I have also developed a java login system and a text editor with java 17.
 
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 
@@ -67,6 +65,7 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 [patreon]: https://www.patreon.com/YusufIsmail
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
+[linkdin]: https://www.linkedin.com/in/yusuf-arfan-ismail-44728a214/
 
 
 
