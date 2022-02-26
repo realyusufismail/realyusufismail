@@ -2,12 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" /> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on [Yusuf's Moderation bot](https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot) and I am also working on my own Discord library using java
- 
- 
+ 🔭 I’m currently working on [Yusuf's Moderation bot](https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot) and on my Youtube channel.
  
  You can donate to me here:
- 
+ [<img align="left" alt="Patreon" width="26px" src="images/Digital-Patreon-Logo_FieryCoral.png"/>][patreon]
  [<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
   <br/>
  
@@ -63,7 +61,7 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [intellij]: https://www.jetbrains.com/idea/
 [atom]: https://atom.io/
 [gofundme]: https://www.gofundme.com/manage/bvbqp-help-me-get-a-better-computer
-[patreon]: https://www.patreon.com/YusufIsmail
+[patreon]: https://www.patreon.com/yusufI
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
 [linkdin]: https://www.linkedin.com/in/yusufarfanismail/
