@@ -4,9 +4,13 @@
 ### I'm a programmer.
  🔭 I’m currently working on [Yusuf's Moderation bot](https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot) and on my Youtube channel.
  
- You can donate to me here:
- [<img align="left" alt="Patreon" width="26px" src="images/Digital-Patreon-Logo_FieryCoral.png"/>][patreon]
- [<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
+### Support me:
+
+You can support me by donating here:
+<br/>
+<br/>
+[<img align="left" alt="Patreon" width="26px" src="images/Digital-Patreon-Logo_FieryCoral.png"/>][patreon]
+[<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
   <br/>
  
  ### Connect with me:
