@@ -14,7 +14,7 @@ You can support me by donating here:
   <br/>
  
  ### Connect with me:
-[<img align="left" alt="Discord" width="26px" src="https://brandslogos.com/wp-content/uploads/images/discord-logo-vector.svg"/>][discord]
+[<img align="left" alt="Discord" width="75px" src="https://img.shields.io/badge/My-Discord-%235865F2.svg"/>][discordme]
 [<img align="left" alt="Linkdin" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>][linkdin]
 <br>
 
@@ -69,6 +69,7 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
 [linkdin]: https://www.linkedin.com/in/yusufarfanismail/
+[discordme]: https://discord.com/users/422708001976221697
 
 
 
