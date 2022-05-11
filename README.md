@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" /> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on [Yusuf's Moderation bot](https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot) and on my Youtube channel.
+ 🔭 I’m currently working on [BlackOnion Bot](https://github.com/Black0nion/BlackOnion-Bot) and on my Youtube channel.
  
 ### Support me:
 
