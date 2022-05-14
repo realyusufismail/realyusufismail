@@ -3,6 +3,8 @@
 
 ### I'm a programmer.
  🔭 I’m currently working on [BlackOnion Bot](https://github.com/Black0nion/BlackOnion-Bot) and on my Youtube channel.
+ <br>
+ 🔭 My github resume can be found [here](https://resume.github.io/?realyusufismail).
  
 ### Support me:
 
