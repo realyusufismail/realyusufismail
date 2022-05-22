@@ -43,6 +43,12 @@ I am a Java programmer and I have been programming 2 years. Currently I am build
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 
  <br/>
+ 
+## Coding Stats (last 7 days)
+<p align="center">
+  <a href="https://wakatime.com/share/@RealYusufIsmail/eb22ac09-0984-4613-b7e3-122d7a78169a.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/eb22ac09-0984-4613-b7e3-122d7a78169a.svg" width="49%"/></a>
+  <a href="https://wakatime.com/share/@RealYusufIsmail/2da2d31a-bf8f-489a-9b88-adc806a666d4.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/2da2d31a-bf8f-489a-9b88-adc806a666d4.svg" width="49%"/></a>
+</p>
 
 ### My stats
 
