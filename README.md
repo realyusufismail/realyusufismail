@@ -11,8 +11,7 @@
 You can support me by donating here:
 <br/>
 <br/>
-[<img align="left" alt="Patreon" width="26px" src="images/Digital-Patreon-Logo_FieryCoral.png"/>][patreon]
-[<img align="left" alt="Gofundme" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/gofundme-3771023-3147640.png"/>][gofundme]
+[<img align="left" alt="Patreon" width="26px" src="https://user-images.githubusercontent.com/67903886/172183555-afaa4ee3-b1d0-4925-a804-3f0938c0bfe2.png"/>][kofi]
   <br/>
  
  ### Connect with me:
@@ -73,7 +72,7 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [intellij]: https://www.jetbrains.com/idea/
 [atom]: https://atom.io/
 [gofundme]: https://www.gofundme.com/manage/bvbqp-help-me-get-a-better-computer
-[patreon]: https://www.patreon.com/yusufI
+[kofi]: https://ko-fi.com/yusufi
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
 [linkdin]: https://www.linkedin.com/in/yusufarfanismail/
