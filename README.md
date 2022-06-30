@@ -12,15 +12,12 @@
 You can support me by donating here:
 <br/>
 <br/>
-[<img align="left" alt="Patreon" width="26px" src="https://user-images.githubusercontent.com/67903886/172183555-afaa4ee3-b1d0-4925-a804-3f0938c0bfe2.png"/>][kofi]
-  <br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
  
  ### Connect with me:
 [<img align="left" alt="Discord" width="75px" src="https://img.shields.io/badge/My-Discord-%235865F2.svg"/>][discordme]
 [<img align="left" alt="Linkdin" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>][linkdin]
 <br>
-
-My discord username is Yusuf.I#0001
 
  ### Languages and tools that i use:
  
