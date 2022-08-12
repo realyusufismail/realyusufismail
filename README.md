@@ -20,27 +20,21 @@ You can support me by donating here:
 <br>
 
  ### Languages and tools that i use:
- 
- [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
- [<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
+[<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
+[<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
 [<img align="left" alt="Github Desktop App" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png"/>][github_app]
-
-
- <br/>
-<br/>
- 
+<br/><br/>
+<hr>
 
 ### About me
 I am a Java programmer and I have been programming 2 years. Currently I am build my discord bot and also trying to build my own Discord library. In the past I have made 3 Minecraft mods including one which has hit 10 thousand downloads! I have also developed a java login system, a text editor with java 17 and a website with html and js which can be found [here](https://realyusufismail.github.io)
 
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
-
- <br/>
- 
+<br/><hr>
 ## Coding Stats (last 7 days)
 <p align="center">
   <a href="https://wakatime.com/share/@RealYusufIsmail/5e02df34-6c3f-4ce7-8df3-5e17628b3949.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/5e02df34-6c3f-4ce7-8df3-5e17628b3949.svg" width="49%"/></a>
@@ -48,11 +42,9 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 </p>
 
 ### My stats
-
-<div align="center">
-<img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&layout=compact&card_width=445&langs_count=6&hide=HTML&hide_border=true" />
-<img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&theme=noctis_minimus&layout=compact&card_width=445&langs_count=6&hide=HTML&hide_border=true"/>
-</div>
+<hr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&theme=noctis_minimus&layout=compact&card_width=445&langs_count=10&hide=HTML&hide_border=true"/>
 
 ### Certificates
 My certificates for completed [courses](https://github.com/realyusufismail/Certificates)
