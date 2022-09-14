@@ -31,8 +31,19 @@ You can support me by donating here:
 <hr>
 
 ### About me
-I am a Java programmer and I have been programming 2 years. Currently I am build my discord bot and also trying to build my own Discord library. In the past I have made 3 Minecraft mods including one which has hit 10 thousand downloads! I have also developed a java login system, a text editor with java 17 and a website with html and js which can be found [here](https://realyusufismail.github.io)
+I am a Java programmer, and I have been programming for 2 years. In the past I have made 3 Minecraft mods including one which has hit 25 thousand downloads!
 
+I have also developed a java login system and a text editor with java 17.
+
+I am a Minecraft mod creator on Cursforge which has a combined total of 20 thousand downloads. I started learning html in 2020 after which I learned css.
+
+After 4 month during lockdown I took up a challenge to build a Minecraft mod using Java in which I successes and it managed to hit 25k downloads.
+
+This challenge began my Java journey in which I have currently learned the basics and currently am learning how to use web sockets and rest API's, as I am using it build my own discord wrapper using the discord API.
+
+I have also contributed to JavaCord and JDA (both discord wrappers) and I have been commissioned to make a discord bot for a server with over 2 thousand members. It is open source.
+
+Currently, I am working on 2 open source projects.
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 <br/><hr>
 ## Coding Stats (last 7 days)
