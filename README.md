@@ -12,17 +12,22 @@
 You can support me by donating here:
 <br/>
 <br/>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
+[![ko-fi<hr>](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
+<hr>
 
-
- ### Languages and tools that i use:
+ ### Languages that I use:
 [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
 [<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
-[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
+
+<br/><br/>
+<hr>
+
+### tools I use:
 [<img align="left" alt="Github Desktop App" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png"/>][github_app]
+[<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
 <br/><br/>
 <hr>
 
