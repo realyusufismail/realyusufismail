@@ -13,11 +13,7 @@ You can support me by donating here:
 <br/>
 <br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
- 
- ### Connect with me:
-[<img align="left" alt="Discord" width="75px" src="https://img.shields.io/badge/My-Discord-%235865F2.svg"/>][discordme]
-[<img align="left" alt="Linkdin" width="26px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>][linkdin]
-<br>
+
 
  ### Languages and tools that i use:
 [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
@@ -52,6 +48,36 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
   <a href="https://wakatime.com/share/@RealYusufIsmail/ac5a0335-9cc7-4b5c-9212-5b312d7392ca.svg" target="_blank"><img src="https://wakatime.com/share/@RealYusufIsmail/ac5a0335-9cc7-4b5c-9212-5b312d7392ca.svg" width="49%"/></a>
 </p>
 
+<h1 align="left"><u>Contact me</u></h1>
+<table>
+    <thead>
+        <tr>
+            <th>logo</th>
+            <th>link</th>
+            <th>info</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
+            </td>
+            <td><a href="https://discord.gg/XWYHxUYsY8" target="blank"> Programming! </a></td>
+            <td><i> Part of staff / admin | ~3000 member <i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="64" width="64" alt="L" /></td>
+            <td><a href="https://www.linkedin.com/in/yusufarfanismail/" target="blank"> Yusuf Arfan Ismail </a></td>
+            <td><i> often available<i></td>
+        </tr>
+        <tr>
+            <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
+            <td><a href="https://discord.com/users/422708001976221697" target="blank"> Yusuf.I#2642 </a></td>
+            <td><i> often available | fast response time <i></td>
+        </tr>
+    </tbody>
+</table>
+
 ### My stats
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
@@ -76,8 +102,6 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [kofi]: https://ko-fi.com/yusufi
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
-[linkdin]: https://www.linkedin.com/in/yusufarfanismail/
-[discordme]: https://discord.com/users/422708001976221697
 
 
 
