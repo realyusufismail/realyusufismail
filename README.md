@@ -36,9 +36,9 @@ I am a Java programmer, and I have been programming for 2 years. In the past I h
 
 I have also developed a java login system and a text editor with java 17.
 
-I am a Minecraft mod creator on Cursforge which has a combined total of 20 thousand downloads. I started learning html in 2020 after which I learned css.
+I am a Minecraft mod creator on Cursforge which has a combined total of 48 thousand downloads. I started learning html in 2020 after which I learned css.
 
-After 4 month during lockdown I took up a challenge to build a Minecraft mod using Java in which I successes and it managed to hit 25k downloads.
+After 4 month during lockdown I took up a challenge to build a Minecraft mod using Java in which I successes and it managed to hit 36k downloads.
 
 This challenge began my Java journey in which I have currently learned the basics and currently am learning how to use web sockets and rest API's, as I am using it build my own discord wrapper using the discord API.
 
