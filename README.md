@@ -20,7 +20,7 @@ You can support me by donating here:
 [<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
-[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"/>][kotlin]
+[<img align="left" alt="Kotlin" width="26px" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png"/>][kotlin]
 [<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"/>][markdown]
 [<img align="left" alt="JSON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"/>][json]
 [<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
@@ -34,8 +34,7 @@ You can support me by donating here:
 [<img align="left" alt="Github Desktop App" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png"/>][github_app]
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
-[<img align="left" alt="Fleet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fleet_logo.svg/120px-Fleet_logo.svg.png"/>][fleet]
-[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png"/>][webstorm]
+[<img align="left" alt="Fleet" width="26px" src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png"/>][fleet]
 <br/><br/>
 <hr>
 
@@ -95,10 +94,9 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&theme=noctis_minimus&layout=compact&card_width=445&langs_count=5&hide=HTML&hide_border=true"/>
-
-
-### Holopin
+             
 [![@realyusufismail's Holopin board](https://holopin.me/realyusufismail)](https://holopin.io/@realyusufismail)
+             
 
 ### Certificates
 My certificates for completed [courses](https://github.com/realyusufismail/Certificates)
@@ -107,6 +105,11 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [mod1]: https://www.curseforge.com/minecraft/mc-mods/ben-ten-mob-mod
 [mod2]: https://www.curseforge.com/minecraft/mc-mods/creatuures
 [discord]: https://discord.gg/DbnHnNKAwA
+[kotlin]: https://kotlinlang.org
+[markdown]: https://daringfireball.net/projects/markdown/
+[json]: https://www.json.org/json-en.html
+[typescript]: https://www.typescriptlang.org
+[swift]: https://www.swift.org
 [vscode]: https://code.visualstudio.com
 [java]: https://www.java.com
 [html]: https://en.wikipedia.org/wiki/HTML
@@ -119,6 +122,7 @@ My certificates for completed [courses](https://github.com/realyusufismail/Certi
 [kofi]: https://ko-fi.com/yusufi
 [opencollective]: https://opencollective.com/yusufi 
 [github_app]: https://desktop.github.com
+[fleet]: https://www.jetbrains.com/fleet/
 
 
 
