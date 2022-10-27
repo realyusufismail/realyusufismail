@@ -15,11 +15,17 @@ You can support me by donating here:
 [![ko-fi<hr>](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
 <hr>
 
- ### Languages that I use:
+### Languages that I use:
 [<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>][java]
 [<img align="left" alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>][html]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][css]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>][javascript]
+[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"/>][kotlin]
+[<img align="left" alt="Markdown" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg"/>][markdown]
+[<img align="left" alt="JSON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg"/>][json]
+[<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
+[<img align="left" alt="Swift" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"/>][swift]
+
 
 <br/><br/>
 <hr>
@@ -28,6 +34,8 @@ You can support me by donating here:
 [<img align="left" alt="Github Desktop App" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png"/>][github_app]
 [<img align="left" alt="IntelliJ" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png"/>][intellij]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][vscode]
+[<img align="left" alt="Fleet" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Fleet_logo.svg/120px-Fleet_logo.svg.png"/>][fleet]
+[<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WebStorm_Icon.svg/120px-WebStorm_Icon.svg.png"/>][webstorm]
 <br/><br/>
 <hr>
 
@@ -87,6 +95,10 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&theme=noctis_minimus&layout=compact&card_width=445&langs_count=5&hide=HTML&hide_border=true"/>
+
+
+### Holopin
+[![@realyusufismail's Holopin board](https://holopin.me/realyusufismail)](https://holopin.io/@realyusufismail)
 
 ### Certificates
 My certificates for completed [courses](https://github.com/realyusufismail/Certificates)
