@@ -39,17 +39,21 @@ You can support me by donating here:
 <hr>
 
 ### About me
-I am a Java programmer and have been programming for 2 years. In the past, I have made 3 Minecraft mods including one which has hit 36 thousand downloads!
+I am a Java; Kotlin; and TypeScript developer where I have achieved and contributed to many things in my time as a dev so far:
 
-I have also developed a java login system and a text editor with java 17.
+1. Achieved getting a Minecraft mod to over 50k downloads.
+2. Contributed to the Java Discord server Discord bot.
+3. Created a Discord Wrapper using Rest APIs, WebSocket and JSON and it is called YDWK (Yusuf Discord Wrapper Kotlin)
+4. Contributed to 2 popular open-source Java Discord wrappers JDA and Javacord.
+5. Create A Kotlin dependency which helps to use JSON files to store tokens and secrets.
+6. Helped to create the BlackOnion-Bot Dashboard using React and TypeScript.
+7. One of the main contributors to the open-source Discord bot BlackOnion-Bot which has over 40k users.
+8. Used VuePress to create a wiki for YDWK.
+9. Used Gradle as the build tool for most of my projects.
+10. Used databases such as SQLite and Postgres. Also used jooq in some projects to generate database tables.
+11. I have done loads but the list will get too long.
 
-I am a Minecraft mod creator on Cursforge which has a combined total of 48 thousand downloads. I started learning HTML in 2020 after which I learned CSS.
-
-After 4 months during the lockdown, I took up a challenge to build a Minecraft mod using Java which I succeeded in and managed to hit 36k downloads.
-
-This challenge began my Java journey in which I currently know the basics and more. I have also learned how to use web sockets and rest APIs, as I was using it to build my own discord wrapper using the discord API. I have also learned how to use Kotlin and Typescript and am currently learning how to make an android app using Kotlin.
-
-I have also contributed to JavaCord and JDA (both discord wrappers) and have been commissioned to make a discord bot for a server with over 3 thousand members. It is open source.
+Currently, I am working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod and improving the BlackOnion-Bot dashboard.
 
 Currently, I am working on 3 open source projects.
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
