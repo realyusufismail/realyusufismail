@@ -3,7 +3,7 @@
 <a href="https://wakatime.com/@f0f08b60-5529-4266-bfff-4cad16da581e"><img src="https://wakatime.com/badge/user/f0f08b60-5529-4266-bfff-4cad16da581e.svg" alt="Total time coded since May 17 2022" /></a> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on [BlackOnion Bot](https://github.com/Black0nion/BlackOnion-Bot) and on my Youtube channel.
+ 🔭 I’m currently working on my [Minecraft Mods](https://github.com/RealYusufIsmail-Mc-Mods) and on my [personal wrapper](https://github.com/YDWK/YDWK)
  <br>
  🔭 My github resume can be found [here](https://resume.github.io/?realyusufismail).
  
@@ -12,7 +12,7 @@
 You can support me by donating here:
 <br/>
 <br/>
-[![ko-fi<hr>](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y3BAYHO)
+[![ko-fi<hr>](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/yusufi)
 <hr>
 
 ### Languages that I use:
@@ -51,9 +51,9 @@ I am a Java; Kotlin; and TypeScript developer where I have achieved and contribu
 8. Used VuePress to create a wiki for YDWK.
 9. Used Gradle as the build tool for most of my projects.
 10. Used databases such as SQLite and Postgres. Also used jooq in some projects to generate database tables.
-11. I have done loads but the list will get too long.
+11. I have done lots more but the list will get too long.
 
-Currently, I am working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod and improving the BlackOnion-Bot dashboard.
+Currently, I am working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod and contributing to Javacord a Discord wrapper written in java.
 
 Currently, I am working on 3 open source projects.
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
