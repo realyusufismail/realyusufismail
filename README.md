@@ -12,7 +12,7 @@
 You can support me by donating here:
 <br/>
 <br/>
-[![ko-fi<hr>](https://ko-fi.com/img/githubbutton_sm.svg)](ko-fi.com/yusufi)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yusufi)
 <hr>
 
 ### Languages that I use:
