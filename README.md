@@ -97,7 +97,7 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
 ### My stats
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realyusufismail&theme=noctis_minimus&layout=compact&card_width=445&langs_count=5&hide=HTML&hide_border=true"/>
+<img align="left" src="https://api.githubtrends.io/user/svg/RealYusufIsmail/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark"/>
              
 [![@realyusufismail's Holopin board](https://holopin.me/realyusufismail)](https://holopin.io/@realyusufismail)
              
