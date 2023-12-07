@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> I'm Yusuf</h1>
+<h1 align="center">Salam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> I'm Yusuf</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realyusufismail&label=Profile%20views&color=0e75b6&style=flat" alt="realyusufismail" /> 
 <a href="https://wakatime.com/@f0f08b60-5529-4266-bfff-4cad16da581e"><img src="https://wakatime.com/badge/user/f0f08b60-5529-4266-bfff-4cad16da581e.svg" alt="Total time coded since May 17 2022" /></a> </p>
 
@@ -88,21 +88,35 @@ I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/r
         </tr>
         <tr>
             <td><img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" /></td>
-            <td><a href="https://discord.com/users/422708001976221697" target="blank"> Yusuf.I#2642 </a></td>
+            <td><a href="https://discord.com/users/422708001976221697" target="blank"> yusuf.i </a></td>
             <td><i> often available | fast response time <i></td>
         </tr>
     </tbody>
 </table>
 
-### My stats
+## My stats
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realyusufismail&count_private=true&show_icons=true&theme=noctis_minimus&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats" />
 <img align="left" src="https://api.githubtrends.io/user/svg/RealYusufIsmail/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=dark"/>
-             
-[![@realyusufismail's Holopin board](https://holopin.me/realyusufismail)](https://holopin.io/@realyusufismail)
-             
 
-### Certificates
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## My badges.
+
+<hr>
+
+[![@realyusufismail's Holopin board](https://holopin.me/realyusufismail)](https://holopin.io/@realyusufismail)
+
+<hr>             
+
+## Certificates
 My certificates for completed [courses](https://github.com/realyusufismail/Certificates)
 
 [youtube]: https://www.youtube.com/channel/UC1RUkzjpWtp4w3OoMKh7pGg
