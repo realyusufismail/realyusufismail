@@ -3,8 +3,7 @@
 <a href="https://wakatime.com/@f0f08b60-5529-4266-bfff-4cad16da581e"><img src="https://wakatime.com/badge/user/f0f08b60-5529-4266-bfff-4cad16da581e.svg" alt="Total time coded since May 17 2022" /></a> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently, working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod, contributing to Javacord a Discord wrapper written in java and learning new skills.
- 🔭 My github resume can be found [here](https://resume.github.io/?realyusufismail).
+🔭 I’m currently, working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod, contributing to Javacord a Discord wrapper written in java and learning new skills.
  
 ### Support me:
 
@@ -38,7 +37,7 @@ You can support me by donating here:
 <hr>
 
 ### About me
-17-year-old Java, Kotlin, and TypeScript developer with over 100,000 downloads for a Minecraft mod and contributions to open-source projects like JDA and Javacord. Adaptable to evolving tech landscapes, passionate about problem-solving, and committed to continuous learning. The ideal candidate for roles in the computing industry, offering a unique blend of theoretical knowledge and practical skills. School leaver with a strong work ethic and eagerness to contribute fresh perspectives.
+17-year-old Java, Kotlin, and TypeScript developer with over 100,000 downloads for a Minecraft mod and contributions to open-source projects like JDA and Javacord. Adaptable to evolving tech landscapes, passionate about problem-solving, and committed to continuous learning. The ideal candidate for roles in the computing industry, offering a unique blend of theoretical knowledge and practical skills. Alevel student with a strong work ethic and eagerness to contribute fresh perspectives.
 
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 <br/><hr>
