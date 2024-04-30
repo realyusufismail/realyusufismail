@@ -3,8 +3,7 @@
 <a href="https://wakatime.com/@f0f08b60-5529-4266-bfff-4cad16da581e"><img src="https://wakatime.com/badge/user/f0f08b60-5529-4266-bfff-4cad16da581e.svg" alt="Total time coded since May 17 2022" /></a> </p>
 
 ### I'm a programmer.
- 🔭 I’m currently working on my [Minecraft Mods](https://github.com/RealYusufIsmail-Mc-Mods) and on my [personal wrapper](https://github.com/YDWK/YDWK)
- <br>
+ 🔭 I’m currently, working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod, contributing to Javacord a Discord wrapper written in java and learning new skills.
  🔭 My github resume can be found [here](https://resume.github.io/?realyusufismail).
  
 ### Support me:
@@ -39,23 +38,8 @@ You can support me by donating here:
 <hr>
 
 ### About me
-I am a Java; Kotlin; and TypeScript developer where I have achieved and contributed to many things in my time as a dev so far:
+17-year-old Java, Kotlin, and TypeScript developer with over 100,000 downloads for a Minecraft mod and contributions to open-source projects like JDA and Javacord. Adaptable to evolving tech landscapes, passionate about problem-solving, and committed to continuous learning. The ideal candidate for roles in the computing industry, offering a unique blend of theoretical knowledge and practical skills. School leaver with a strong work ethic and eagerness to contribute fresh perspectives.
 
-1. Achieved getting a Minecraft mod to over 50k downloads.
-2. Contributed to the Java Discord server Discord bot.
-3. Created a Discord Wrapper using Rest APIs, WebSocket and JSON and it is called YDWK (Yusuf Discord Wrapper Kotlin)
-4. Contributed to 2 popular open-source Java Discord wrappers JDA and Javacord.
-5. Create A Kotlin dependency which helps to use JSON files to store tokens and secrets.
-6. Helped to create the BlackOnion-Bot Dashboard using React and TypeScript.
-7. One of the main contributors to the open-source Discord bot BlackOnion-Bot which has over 40k users.
-8. Used VuePress to create a wiki for YDWK.
-9. Used Gradle as the build tool for most of my projects.
-10. Used databases such as SQLite and Postgres. Also used jooq in some projects to generate database tables.
-11. I have done lots more but the list will get too long.
-
-Currently, I am working on a couple of projects such as a new Minecraft Mod called Armour and Tools mod and contributing to Javacord a Discord wrapper written in java.
-
-Currently, I am working on 3 open source projects.
 I am a Minecraft mod creator on [Cursforge](https://www.curseforge.com/members/realyusufismail/projects)
 <br/><hr>
 ## Coding Stats (last 7 days)
