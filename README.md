@@ -24,23 +24,23 @@ You can support me by donating here:
 ## Languages & Tools
 ### Languages
 <p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML 5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40" height="40"/>
+  <a href="https://www.java.com"><img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML 5" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40"/></a>
+  <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://kotlinlang.org"><img src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin" width="40" height="40"/></a>
+  <a href="https://daringfireball.net/projects/markdown/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40"/></a>
+  <a href="https://www.json.org/json-en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="40" height="40"/></a>
+  <a href="https://www.swift.org"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40" height="40"/></a>
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png" alt="GitHub Desktop App" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" alt="Fleet" width="40" height="40"/>
+  <a href="https://desktop.github.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/120px-Github-desktop-logo-symbol.svg.png" alt="GitHub Desktop App" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/fleet/"><img src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" alt="Fleet" width="40" height="40"/></a>
 </p>
 
 ## Coding Stats (Last 7 Days)
