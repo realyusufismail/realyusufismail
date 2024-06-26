@@ -32,7 +32,7 @@ You can support me by donating here:
   <a href="https://daringfireball.net/projects/markdown/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40"/></a>
   <a href="https://www.json.org/json-en.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="40" height="40"/></a>
-  <a href="https://www.swift.org"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40" height="40"/></a>
+  <a href="https://www.swift.org"><img src="https://github.com/RealYusufIsmail/realyusufismail/assets/67903886/721850c2-5791-4812-befd-40a8933633f8" alt="Swift" width="40" height="40"/></a>
 </p>
 
 ### Tools
