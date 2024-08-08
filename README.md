@@ -12,7 +12,7 @@ I am a Minecraft mod creator on [Curseforge](https://www.curseforge.com/members/
 
 ## Current Projects
 🔭 I’m currently working on:
-- A math product called [PureMath](https://www.puremath.co.uk/)
+- A math product called [ReviseWizard](https://www.revisewizard.com/)
 - Contributing to **Javacord**, a Discord wrapper written in Java
 - Learning new skills
 
