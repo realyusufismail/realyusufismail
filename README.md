@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-👋 Hi, I’m Yusuf! I am a passionate software developer with over five years of experience in Java, Kotlin, and TypeScript. I have a strong foundation in creating innovative solutions, ranging from Minecraft mods with over 130,000 downloads to collaborative projects like Discord bots and web applications.
+I am a passionate software developer with over five years of experience in Java, Kotlin, and TypeScript. I have a strong foundation in creating innovative solutions, ranging from Minecraft mods with over 130,000 downloads to collaborative projects like Discord bots and web applications.
 
 Currently, I am pursuing a Software Engineering Degree Apprenticeship, eager to apply my skills in a professional setting. My journey began during COVID when I took the initiative to learn coding, and it has evolved into a fulfilling career focused on technology.
 
