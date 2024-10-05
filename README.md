@@ -6,7 +6,13 @@
 </p>
 
 ## About Me
-I'm a 17-year-old Java, Kotlin, and TypeScript developer with over 100,000 downloads for a Minecraft mod and contributions to open-source projects like JDA and Javacord. I am adaptable to evolving tech landscapes, passionate about problem-solving, and committed to continuous learning. I am an A-level student with a strong work ethic and eagerness to contribute fresh perspectives.
+👋 Hi, I’m Yusuf! I am a passionate software developer with over five years of experience in Java, Kotlin, and TypeScript. I have a strong foundation in creating innovative solutions, ranging from Minecraft mods with over 130,000 downloads to collaborative projects like Discord bots and web applications.
+
+Currently, I am pursuing a Software Engineering Degree Apprenticeship, eager to apply my skills in a professional setting. My journey began during COVID when I took the initiative to learn coding, and it has evolved into a fulfilling career focused on technology.
+
+I believe in the power of teamwork and community, as demonstrated by my role as the deputy head boy at my sixth form and my involvement in open-source projects. I am dedicated to helping others and am always on the lookout for new challenges and opportunities to grow.
+
+When I’m not coding, you can find me hiking, spending time with friends, or exploring new tech innovations. Let’s connect!
 
 I am a Minecraft mod creator on [Curseforge](https://www.curseforge.com/members/realyusufismail/projects).
 
